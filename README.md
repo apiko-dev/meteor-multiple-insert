@@ -12,7 +12,7 @@ After that you will be able to use `insertMultiple` function.
 
 Arguments:
 - `docs`(`Array` or `Object`) — Documents or the single document to insert. May not yet have an `_id` attribute, in which case Meteor will generate for you.
-- [`callback`(`Function`)] —Optional. If present, called with an error object as the first argument and, if no error, the `_id` as the second.
+- [`callback`(`Function`)] —vOptional. If present, called with an error object as the first argument and, if no error, the `_id` as the second.
 
 # License
 The `meteor-multiple-insert` project is under MIT license.
