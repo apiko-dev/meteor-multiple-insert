@@ -1,10 +1,14 @@
 # meteor-multiple-insert
+
 Adding an array object to the collection.
 
+
 # Usage
-Add project to your Meteor project: `meteor add jss:multiple-insert`.
+
+Add this pacakge to your Meteor project: `meteor add jss:multiple-insert`.
 
 After that you will be able to use `insertMultiple` function.
+
 
 ## collection.insertMultiple
 
